@@ -1,22 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Jun-hyeok-Park/Jun-hyeok-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=JUNHYEOK's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
-
 
 **Embedded Software Designer | Developer**  
 KU (2017.03 ~ 2023.08)  
@@ -51,3 +35,5 @@ Bachelor’s Degree in Electrical and Electronic Engineering
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jun-hyeok-Park&theme=dracula)](https://git.io/streak-stats)
 
 ![Jun-hyeok-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun-hyeok-Park&show_icons=true&theme=dracula)
+
+[![Jun-hyeok-Park's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jun-hyeok-Park&custom_title=Jun-hyeok-Park's%Activity%20Graph&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
