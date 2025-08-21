@@ -45,7 +45,7 @@ Bachelor’s Degree in Electrical and Electronic Engineering
 <img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white"> <img src="https://img.shields.io/badge/googletest-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">
 
 ### 📜 Standards
-<img src="https://img.shields.io/badge/autosar-555555.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/a--spice-555555.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/iso--26262-555555.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/autosar-E44D26.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/a--spice-C82333.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/iso--26262-D9534F.svg?style=for-the-badge&logoColor=white">
 
 ---
 
@@ -87,4 +87,4 @@ Bachelor’s Degree in Electrical and Electronic Engineering
 
 #### 🛠️ 사용한 기술 (Tech Stack)
 
-<img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/aurix-F37321.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/autosar-555555.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white">
+<img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/aurix-F37321.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white"> <img src="https://img.shields.io/badge/autosar-E44D26.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/a--spice-C82333.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/iso--26262-D9534F.svg?style=for-the-badge&logoColor=white">
