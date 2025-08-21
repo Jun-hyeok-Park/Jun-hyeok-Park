@@ -32,8 +32,6 @@ Bachelor’s Degree in Electrical and Electronic Engineering
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jun-hyeok-Park&theme=dracula)](https://git.io/streak-stats)
-
-![Jun-hyeok-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun-hyeok-Park&show_icons=true&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jun-hyeok-Park&theme=dracula)](https://git.io/streak-stats) ![Jun-hyeok-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun-hyeok-Park&show_icons=true&theme=dracula)
 
 [![Jun-hyeok-Park's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jun-hyeok-Park&custom_title=Jun-hyeok-Park's%Activity%20Graph&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
