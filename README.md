@@ -38,7 +38,7 @@ Bachelor’s Degree in Electrical and Electronic Engineering
 <img src="https://img.shields.io/badge/visual studio code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/visual studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white">
 
 #### Engineering & Simulation
-<img src="https://img.shields.io/badge/matlab-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white"> <img src="https://img.shields.io/badge/simulink-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white"> <img src="https://img.shields.io/badge/CANoe-004E8A.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/aurix-555555.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/matlab-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white"> <img src="https://img.shields.io/badge/simulink-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white"> <img src="https://img.shields.io/badge/CANoe-004E8A.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/aurix-F37321.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/UDE%20Visual%20Platform-005A9B.svg?style=for-the-badge&logoColor=white">
 
 #### Development & Management
 <img src="https://img.shields.io/badge/gcc-%23A4261D.svg?style=for-the-badge&logo=gnu&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
