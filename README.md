@@ -30,33 +30,21 @@ Bachelor’s Degree in Electrical and Electronic Engineering
 ## 🛠️ Skills & Tech Stack
 
 ### 💻 Languages
-<img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"> 
-<img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"> 
-<img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
 
 ### 🛠️ Tools
 #### IDE & Editor
-<img src="https://img.shields.io/badge/visual studio code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/visual studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white">
+<img src="https://img.shields.io/badge/visual studio code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/visual studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white">
 
 #### Engineering & Simulation
-<img src="https://img.shields.io/badge/matlab-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white">
-<img src="https://img.shields.io/badge/simulink-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white">
-<img src="https://img.shields.io/badge/canoe-004E8A.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/aurix-555555.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/matlab-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white"> <img src="https://img.shields.io/badge/simulink-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white"> <img src="https://img.shields.io/badge/canoe-004E8A.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/aurix-555555.svg?style=for-the-badge&logoColor=white">
 
 #### Development & Management
-<img src="https://img.shields.io/badge/gcc-%23A4261D.svg?style=for-the-badge&logo=gnu&logoColor=white">
-<img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white">
-<img src="https://img.shields.io/badge/googletest-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/gcc-%23A4261D.svg?style=for-the-badge&logo=gnu&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white"> <img src="https://img.shields.io/badge/googletest-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">
 
 ### 📜 Standards
-<img src="https://img.shields.io/badge/autosar-555555.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/a--spice-555555.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/iso--26262-555555.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/autosar-555555.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/a--spice-555555.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/iso--26262-555555.svg?style=for-the-badge&logoColor=white">
 
 ---
 
