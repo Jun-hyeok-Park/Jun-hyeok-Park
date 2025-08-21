@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=JUNHYEOK's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jun-hyeok-Park&theme=dracula)](https://git.io/streak-stats)
+
+![Jun-hyeok-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun-hyeok-Park&show_icons=true&theme=dracula)
