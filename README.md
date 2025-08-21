@@ -21,7 +21,7 @@ Bachelor’s Degree in Electrical and Electronic Engineering
 <img src="https://img.shields.io/badge/visual studio code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/visual studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white">
 
 #### Engineering & Simulation
-<img src="https://img.shields.io/badge/matlab-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white"> <img src="https://img.shields.io/badge/simulink-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white"> <img src="https://img.shields.io/badge/canoe-004E8A.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/aurix-555555.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/matlab-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white"> <img src="https://img.shields.io/badge/simulink-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white"> <img src="https://img.shields.io/badge/CANoe-004E8A.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/aurix-555555.svg?style=for-the-badge&logoColor=white">
 
 #### Development & Management
 <img src="https://img.shields.io/badge/gcc-%23A4261D.svg?style=for-the-badge&logo=gnu&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
@@ -32,6 +32,17 @@ Bachelor’s Degree in Electrical and Electronic Engineering
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jun-hyeok-Park&theme=dracula)](https://git.io/streak-stats) ![Jun-hyeok-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun-hyeok-Park&show_icons=true&theme=dracula)
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=Jun-hyeok-Park&theme=dracula" alt="GitHub Streak"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jun-hyeok-Park&show_icons=true&theme=dracula" alt="Jun-hyeok-Park's GitHub stats"/>
+    </td>
+  </tr>
+</table>
 
 [![Jun-hyeok-Park's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jun-hyeok-Park&custom_title=Jun-hyeok-Park's%Activity%20Graph&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
