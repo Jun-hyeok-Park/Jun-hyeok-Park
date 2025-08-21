@@ -1,14 +1,17 @@
-## Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=JUNHYEOK's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
+안전성과 효율성을 최우선으로 생각하는 자동차 임베디드 소프트웨어 개발자입니다.  
+AUTOSAR 아키텍처와 ISO 26262 표준에 대한 이해를 바탕으로 신뢰성 높은 차량용 소프트웨어를 개발하는 것을 목표로 합니다.
+
 **Embedded Software Designer | Developer**  
-KU (2017.03 ~ 2023.08)  
-Bachelor’s Degree in Electrical and Electronic Engineering  
+Konkuk Univ. (2017.03 ~ 2023.08)  
+Bachelor’s Degree in Electrical and Electronic Engineering  
+
+<a href="mailto:joonhyeoki@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jun-hyeok-park-31b8a5293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgur07)](https://solved.ac/ce_won/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wnsgur07&theme=dark)
-
 ---
 
 <table border="0" cellpadding="0" cellspacing="0">
