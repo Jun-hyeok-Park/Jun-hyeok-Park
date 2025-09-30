@@ -111,7 +111,7 @@ EV용 모터의 핵심 성능인 빠른 동특성 확보를 목표로, 새로운
 
 #### Development, Management & Test
 <img src="https://img.shields.io/badge/gcc-%23A4261D.svg?style=for-the-badge&logo=gnu&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white"> <img src="https://img.shields.io/badge/googletest-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"> <img src="https://img.shields.io/badge/Doxygen-2764A2.svg?style=for-the-badge&logo=Doxygen&logoColor=white">
+<img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white"> <img src="https://img.shields.io/badge/Doxygen-2764A2.svg?style=for-the-badge&logo=Doxygen&logoColor=white">
 
 ### 📜 Standards
 <img src="https://img.shields.io/badge/autosar-E44D26.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/a--spice-C82333.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/iso--26262-D9534F.svg?style=for-the-badge&logoColor=white">
