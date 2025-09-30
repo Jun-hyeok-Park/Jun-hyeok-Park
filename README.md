@@ -115,3 +115,5 @@ EV용 모터의 핵심 성능인 빠른 동특성 확보를 목표로, 새로운
 
 ### 📜 Standards
 <img src="https://img.shields.io/badge/autosar-E44D26.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/a--spice-C82333.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/iso--26262-D9534F.svg?style=for-the-badge&logoColor=white">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
